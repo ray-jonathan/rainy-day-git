@@ -1,2 +1,2 @@
 print("Hai gurl, hai!")
-print("Wut")
+print("Wut?")
